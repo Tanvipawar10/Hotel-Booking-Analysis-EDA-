@@ -28,3 +28,15 @@ Using the Hotel Booking dataset, which contains tabular data on guest booking pa
 
 The objective of our analysis is twofold: to assist potential guests in making informed decisions about the ideal hotel, stay duration, and other preferences, and to provide actionable insights for hotel management to enhance their services and better cater to guest needs.
 
+# Conclusion
+
+City Hotel holds the largest share of bookings, with 73% of reservations not being canceled. Resort Hotel tends to attract more families and guests with children. However, City Hotel experiences higher cancellation rates, possibly due to their no-deposit and no-cancellation-charge policies.
+
+2016 saw the highest number of bookings across both hotels, with August being the peak month for guest arrivals. Additionally, guests tend to prefer weekday stays over weekends.
+
+City Resort can be branded as "Duo/Couple-Friendly" and "Children-Friendly," while Resort Hotel is more suitable for families with babies. Both hotels have relatively few repeat guests.
+
+City Hotel guests typically stay for 2 or 3 days, while Resort Hotel guests often stay for 1 or 7 days. City Hotel guests account for 64% of total special requests, compared to Resort Hotel's 36%. City Hotel also offers more "No Deposit" bookings, although Resort Hotel has a higher percentage of no-deposit bookings overall.
+
+The price range and standard deviation for City Hotel are lower than Resort Hotel, with Resort Hotel prices exceeding City Hotel rates in peak months like July, August, September, and June. For the remaining months, City Hotel maintains higher prices than Resort Hotel.
+
